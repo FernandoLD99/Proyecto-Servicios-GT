@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+# Ignora archivos temporales
+*.tmp
+# Para MySQL si subes dumps
+*.sql.dump
